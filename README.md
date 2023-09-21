@@ -1,8 +1,6 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=UUJEEN%20Github!&fontSize=90" />
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uujeen&layout=compact" >
-  <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=uujeen&show_icons=true">
   <br><br>
   
